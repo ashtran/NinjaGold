@@ -1,0 +1,23 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+#container{
+  width:1000px;
+  margin: auto;
+  font-family: arial;
+}
+.locations{
+  width:200px;
+  height: 150px;
+  display:inline-block;
+  position:relative;
+  vertical-align: top;
+  margin:5px;
+  padding:5px;
+  border: 1px solid #000;
+  text-align: center;
+}
+p{
+  margin: 10px 0px;
+}
